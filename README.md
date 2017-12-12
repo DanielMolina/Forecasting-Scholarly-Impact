@@ -33,7 +33,7 @@ File Desciption
 
 Group Members:
 
-Mehdi Ghasemirahaghi, mghasem1@asu.edu
-Daniel Molina, d.molina@asu.edu
-Shakiba Yaghoubi, syaghoub@asu.edu
-Mehrdad Zakershahrak, mzakersh@asu.edu
+1. Mehdi Ghasemirahaghi, mghasem1@asu.edu
+2. Daniel Molina, d.molina@asu.edu
+3. Shakiba Yaghoubi, syaghoub@asu.edu
+4. Mehrdad Zakershahrak, mzakersh@asu.edu
