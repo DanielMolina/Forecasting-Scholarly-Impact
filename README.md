@@ -30,3 +30,10 @@ File Desciption
 3) outputt.mat is the converted output of the csv verison of the file
 4) test_ind.mat is the set of indices for training and test
 5) labels.csv is the labels for classification
+
+Group Members:
+
+Mehdi Ghasemirahaghi, mghasem1@asu.edu
+Daniel Molina, d.molina@asu.edu
+Shakiba Yaghoubi, syaghoub@asu.edu
+Mehrdad Zakershahrak, mzakersh@asu.edu
