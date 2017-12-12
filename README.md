@@ -1,4 +1,7 @@
 This project uses matlab and python 2.7.
+Original dataset (acm_output.txt) located at: https://aminer.org/citation  (V6)
+Data for matlab code found at:
+https://drive.google.com/open?id=1OzSAG30jifiRd536JfusQrYVv-e4lX48
 
 The libraries being used in python are as follows:
 1. pandas

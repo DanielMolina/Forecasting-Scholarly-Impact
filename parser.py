@@ -128,7 +128,7 @@ def aggregate_word_features(sentence, model_wv, vocabulary):
 # The main code starts from here
 
 # make sure the output is placed in the same folder as this code
-f = open('test.txt')
+f = open('acm_output.txt')
 lines = read_all_lines(f)
 f.close()
 
